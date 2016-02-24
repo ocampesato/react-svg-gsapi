@@ -1,1 +1,1 @@
-# react-svg-gsapi
+This Github repository contains graphics and animation code samples based on ReactJS, SVG, and GSAPI. There are many swatch-like (read: very similar) code samples, and feel free to modify them to incorporate other features of GSAPI, which is a very impressive JavaScript library.
